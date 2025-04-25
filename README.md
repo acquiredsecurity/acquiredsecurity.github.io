@@ -1,6 +1,6 @@
 # AcquiredSecurity
 
-## Digital Forensics & Threat Hunting Expert
+## Digital Forensics & Threat Hunting Cybersecurity Person
 
 Welcome to my GitHub Pages site showcasing my cybersecurity tools, forensic utilities, and threat hunting frameworks.
 
