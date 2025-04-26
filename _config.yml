@@ -1,0 +1,39 @@
+# Site settings
+title: AcquiredSecurity
+description: Digital Forensics, Threat Hunting and Security
+author: BR
+email: brad@rnrcollect.com
+baseurl: "github.com/acquiredsecurity" 
+url: "https://acquiredsecurity.github.io" # the base hostname & protocol for your site
+
+# Social media profiles
+github_username: acquiredsecurity
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-midnight
+
+# Theme-specific settings
+show_downloads: true # Set to false to hide download buttons
+
+# Midnight theme allows these plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections (optional)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
+```
